@@ -59,7 +59,7 @@ timeline
 ---
 
 ## 📬 Get in Touch
-📧 [andrewtrinfo0612@gmail.com](mailto:andrewtrinfo0612@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+📧 [andrewtrinfo0612@gmail.com](mailto:andrewtrinfo0612@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/andrewtr0612/)  
 
 ---
 
