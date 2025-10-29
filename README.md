@@ -40,9 +40,9 @@ Technical Support Specialist | IT Help Desk | Web Content Executive
 ```mermaid
 timeline
     title Career Timeline
-    2024 : Student Assistant – IT Support Technician (Coast Community College)
-    2022 : Web Content Executive (MobileWorldJS)
     2019 : Telesales Agent (VanTin Telecom)
+    2022 : Web Content Executive (MobileWorldJS)
+    2024 : Student Assistant – IT Support Technician (Coast Community College)
 
 ```
 
